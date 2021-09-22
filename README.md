@@ -8,19 +8,15 @@ The app Heyro Fit was developed as a free app. This service is intended to be us
 
 By choosing to use this service, you consent to the collection and use of information relating to this policy. The collected personal data is used to provide and improve the service. We will not use your data or share it to third parties, except as described in this privacy policy. The terms used in this Privacy Policy have the same meaning as in our General Privacy Policy, which is accessible in the app, unless otherwise defined in this data protection declaration. 
 
-### Data collection and use
+### Information Collection and Use
 
-When setting up for the first time, users should provide real personal information. If the personal information provided is incorrect, there may be inaccuracies in the analyzed data.
-For better functionality, you will be asked to provide certain personally identifiable information or authorizations when using our service, such as access to cameras, SMS and messages, telephone, contacts, among other things. All physiological parameter data and related information collected by the product are stored on your device and are not collected by us in any way. The recorded data can be synchronized via a smartphone and viewed in the evaluations within the app.
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to sms,call,contact,camera,location,background location. The information that we request will be retained by us and used as described in this privacy policy.
 
-The app uses third party services that can collect information that is used to identify you.
+The app does use third party services that may collect information used to identify you.
 
-Link to the privacy policy of third parties used by the app
+Link to privacy policy of third party service providers used by the app
 
-#### Google Play Services
-
-Disclaimer of liability
-Although the smart watch can monitor heart rate, sleep quality, exercise capacity, etc., it cannot be used for medical purposes. Please consult your doctor before starting any exercise and diet plan.
+[Google Play Services](https://www.google.com/policies/privacy/)
 
 ### Cookies
 
